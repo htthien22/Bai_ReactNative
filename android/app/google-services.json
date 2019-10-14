@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513537285999",
+    "firebase_url": "https://baitaplon-a2f2f.firebaseio.com",
+    "project_id": "baitaplon-a2f2f",
+    "storage_bucket": "baitaplon-a2f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513537285999:android:b54a1973170ae438a3129a",
+        "android_client_info": {
+          "package_name": "com.bongda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513537285999-jvhkbk5c4uln0kceg421cm7p2uplnk44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3t0YhKXfbvGA--vbtLFRLoyIIJJ0cSio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513537285999-jvhkbk5c4uln0kceg421cm7p2uplnk44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
